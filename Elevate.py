@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to B&M Mission cascade
+# Welcome to Jenga BD- Reset, Reconnect, Drive.
         
          """)
 
@@ -39,4 +39,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" Welcome to B&M Mission Cascade. "+msg)
+    st.write(name +" Karibu. "+msg)
