@@ -42,4 +42,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write("Dear" name +" , Karibu. "+msg)
+    st.write("Dear", name +" , Karibu. "+msg)
