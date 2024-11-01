@@ -30,8 +30,7 @@ msgs = ["Together, we can build something incredible. Let's foster a spirit of c
 "Let's foster a culture of collaboration and mutual respect. Together, we can achieve great things. #TeamBuilding",
 "Our success is a reflection of our teamwork. Let's work together to create a workplace that thrives on collaboration and unity. #Collaboration",
 "Let's break down silos and build bridges. Together, we can create a workspace that encourages collaboration and innovation. #Bonding",
-"The strength of our team lies in our diversity. Let's work together to create a harmonious and thriving workspace".
- ]
+"The strength of our team lies in our diversity. Let's work together to create a harmonious and thriving workspace".]
 
 
 f_name = st.text_input('Enter your first name')
