@@ -14,7 +14,7 @@ st.write("""
         
          """)
 
-msgs = [ " "Together, we can build something incredible. Let's foster a spirit of collaboration and see how far we can go. #TeamBuilding",
+msgs = [ "Together, we can build something incredible. Let's foster a spirit of collaboration and see how far we can go. #TeamBuilding",
 "Unity is strength. When we work together, we can move mountains. Let's leverage our unique strengths for the greater good. #Bonding",
 "Remember, we're not just colleagues, we're a team. And as a team, we thrive. Let's make every day count. #Collaboration",
 "In the face of challenges, we stand stronger together. Let's turn obstacles into opportunities. #TeamBuilding",
