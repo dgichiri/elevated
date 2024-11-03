@@ -14,7 +14,7 @@ st.write("""
         
          """)
 
-msgs = [ "Welcome to the CO Fun Fest! Let's reconnect, rejuvenate and shine together. We also call ourselves team eagle. We soar high!!!",
+msgs = [ "Welcome to the CO Fun Fest! Let's reconnect, rejuvenate and shine together.",
 
                      
         ]
