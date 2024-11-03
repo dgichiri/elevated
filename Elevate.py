@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to CO Fun Fest in Diani
+# Welcome to Customer Obsession Fun Fest in Diani
         
          """)
 
