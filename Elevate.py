@@ -15,7 +15,8 @@ st.write("""
          """)
 
 msgs = [ "Welcome to the CO Fun Fest! Let's reconnect, rejuvenate and shine together.",
-
+         "Welcome to the CO Fun Fest! Let's reconnect, rejuvenate and shine together.",
+         "Welcome to the CO Fun Fest! Let's reconnect, rejuvenate and shine together.",
                      
         ]
 
