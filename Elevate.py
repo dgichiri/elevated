@@ -27,5 +27,6 @@ f_name = st.text_input('Enter your first name')
 if st.button('SUBMIT'):
     intpos = random.randint(0,len(msgs
     name = f_name.capitalize()
+    msg = msgs[intpos]
         
     st.write("Dear", name +" , Karibu. "+msg)
